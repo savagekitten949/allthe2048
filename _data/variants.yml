@@ -78,3 +78,7 @@
 - url: http://hgentry.github.io/-512/
   name: -512
   author: Harrison Gentry
+
+- url: http://chenglou.github.io/flappy-2048-side-by-side/
+  name: Flappy 2048 Side-By-Side
+  author: Cheng Lou
