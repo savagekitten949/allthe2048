@@ -1,0 +1,60 @@
+
+- url: http://gabrielecirulli.github.io/2048/
+  name: Original
+  author: Gabriele Cirulli
+
+- url: http://ov3y.github.io/2048-AI/
+  name: 2048 AI
+  author: Matt Overlan
+
+- url: http://joppi.github.io/2048-3D/
+  name: 2048-3D
+  author: Michal Opler
+
+- url: http://huonw.github.io/2048-4D/
+  name: 2048-4D
+  author: Huon Wilson
+
+- url: http://prat0318.github.io/2048-tetris/
+  name: 2048 Tetris
+  author: Prateek Agarwal
+
+- url: http://emils.github.io/2048-multiplayer/
+  name: 2048-Multiplayer
+  author: Emil Stolarsky
+
+- url: http://rudradevbasak.github.io/16384_hex/
+  name: Hex 16384
+  author: Rudradev Basak
+
+- url: http://jonastermeau.com/files/others/2048%5E0/
+  name: 2048^0
+  author: Jonas Termeau
+
+- url: http://quaxio.com/2048/
+  name: 2048-undo
+  author: Alok Menghrajani
+
+- url: http://milrivel.github.io/LHC/
+  name: LHC (2048 For Physicists)
+  author: milrivel
+
+- url: http://jffry.github.io/2048-Meta/
+  name: 2048 Meta
+  author: Jeffrey Stanton
+
+- url: http://amschrader.github.io/2048/
+  name: Pokemon 2048
+  author: Allyson Schrader
+
+- url: http://doge2048.com
+  name: Doge 2048
+  author: Jason LaFerrera
+
+- url: http://hczhcz.github.io/Flappy-2048/
+  name: Flappy 2048
+  author: hcz
+
+- url: http://jmfork.github.io/2048/
+  name: Deterministic 2048
+  author: jmfork

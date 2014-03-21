@@ -1,9 +1,12 @@
+---
+---
+
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <title>ALL THE 2048</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
   <link rel="shortcut icon" href="favicon.ico">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -16,66 +19,12 @@
     </header>
     <section>
       <ul class="variants-list">
-        <li class="variant original">
-          <a href="http://gabrielecirulli.github.io/2048/"><strong>Original</strong></a>
-          by Gabriele Cirulli 
-        </li>
+        {% for variant in site.data.variants %}
         <li class="variant">
-          <a href="http://ov3y.github.io/2048-AI/"><strong>2048 AI</strong></a>
-          by Matt Overlan
+          <a href="{{ variant.url }}"><strong>{{ variant.name }}</strong></a>
+          by {{ variant.author }}
         </li>
-        <li class="variant">
-          <a href="http://joppi.github.io/2048-3D/"><strong>2048-3D</strong></a>
-          by Michal Opler
-        </li>
-        <li class="variant">
-          <a href="http://huonw.github.io/2048-4D/"><strong>2048-4D</strong></a>
-          by Huon Wilson
-        </li>
-        <li class="variant">
-          <a href="http://prat0318.github.io/2048-tetris/"><strong>2048 Tetris</strong></a>
-          by Prateek Agarwal
-        </li>
-        <li class="variant">
-          <a href="http://emils.github.io/2048-multiplayer/"><strong>2048-Multiplayer</strong></a>
-          by Emil Stolarsky
-        </li>
-        <li class="variant">
-          <a href="http://rudradevbasak.github.io/16384_hex/"><strong>Hex 16384</strong></a>
-          by Rudradev Basak
-        </li>
-        <li class="variant">
-          <a href="http://jonastermeau.com/files/others/2048%5E0/"><strong>2048^0</strong></a>
-          by Jonas Termeau
-        </li>
-        <li class="variant">
-          <a href="http://quaxio.com/2048/"><strong>2048-undo</strong></a>
-          by Alok Menghrajani
-        </li>
-        <li class="variant">
-          <a href="http://rudradevbasak.github.io/16384_hex/"><strong>LHC (2048 For Physicists)</strong></a>
-          by milrivel
-        </li>
-        <li class="variant">
-          <a href="http://jffry.github.io/2048-Meta/"><strong>2048 Meta</strong></a>
-          by Jeffrey Stanton
-        </li>
-        <li class="variant">
-          <a href="http://amschrader.github.io/2048/"><strong>Pokemon 2048</strong></a>
-          by Allyson Schrader
-        </li>
-        <li class="variant">
-          <a href="http://doge2048.com"><strong>Doge 2048</strong></a>
-          by Jason LaFerrera
-        </li>
-        <li class="variant">
-          <a href="http://hczhcz.github.io/Flappy-2048/"><strong>Flappy 2048</strong></a>
-          by hcz
-        </li>
-        <li class="variant">
-          <a href="http://jmfork.github.io/2048/"><strong>Deterministic 2048</strong></a>
-          by jmfork
-        </li>
+        {% endfor %}
       </ul>
     </section>
     <footer>
