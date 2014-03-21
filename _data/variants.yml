@@ -62,3 +62,15 @@
 - url: http://t2.technion.ac.il/~s7395779/
   name: 11
   author: Elazar Gershuni
+
+- url: http://hgentry.github.io/81/
+  name: 243
+  author: Harrison Gentry
+
+- url: http://hgentry.github.io/1/
+  name: 1
+  author: Harrison Gentry
+
+- url: http://hgentry.github.io/204div/
+  name: 204div
+  author: Harrison Gentry
