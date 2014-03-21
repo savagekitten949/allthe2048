@@ -54,11 +54,25 @@ hr {
   list-style: none;
   margin-bottom: 15px;
   padding: 15px;
-  background: rgba(238, 228, 218, 0.35);
+  background: #eee4da;
 }
 
 .variant:last-child {
     margin-bottom: 0;
+}
+
+.variant:nth-child(2n+1) {
+  background: #ede0c8;
+}
+
+.variant.original {
+  color: #f9f6f2;
+  background: #edc22e;
+  box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+}
+
+.variant.original a {
+  color: #f9f6f2;
 }
 
 .contributing {
