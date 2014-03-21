@@ -58,3 +58,7 @@
 - url: http://jmfork.github.io/2048/
   name: Deterministic 2048
   author: jmfork
+
+- url: http://t2.technion.ac.il/~s7395779/
+  name: 11
+  author: Elazar Gershuni
