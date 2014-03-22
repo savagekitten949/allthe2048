@@ -1,4 +1,3 @@
-
 - url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
@@ -86,3 +85,7 @@
 - url: https://dropbox2048.site44.com/
   name: Dropbox 2048
   author: Dropbox
+
+- url: http://git.io/2048dbz
+  name: 2048DBZ
+  author: Gonzalo Gluzman & Matias Garcia Isaia
