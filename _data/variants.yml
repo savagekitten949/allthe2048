@@ -97,7 +97,19 @@
 - url: https://glyphobet.github.io/zero/
   name: zero
   author: Matt Chisholm
-  
+
 - url: http://benfb.github.io/fb2048
   name: fb2048
   author: Ben Bailey
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/8192/
+  name: 8192
+  author: JamesQAQ
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/65536/
+  name: 65536
+  author: JamesQAQ
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/9007199254740992/
+  name: 9007199254740992
+  author: JamesQAQ
