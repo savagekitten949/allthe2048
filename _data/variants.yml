@@ -121,15 +121,15 @@
 - url: http://saming.fr/p/2048
   name: 2048
   author: Saming
-  
+
 - url: http://joezeng.com/projects/games/144
   name: 144
   author: Joe Zeng
-  
+
 - url: http://jatekos101.github.io/20euros/
   name: 20 Euro
   author: jatekos101
-  
+
 - url: http://www.matimenkes.com/2048/justinbieber/
   name: 2048 - Justin Bieber
   author: Mati Menkes
@@ -137,3 +137,7 @@
 - url: http://duarteduarte.tk/2048/
   name: 2048 - A Mostly Wrong History of Programming Languages
   author: Duarte Duarte & JP Dias
+
+- url: http://la-oui.ch/troll2048/
+  name: troll2048
+  author: J2R2
