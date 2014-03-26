@@ -145,3 +145,7 @@
 - url: http://uhyohyo.net/quantum2048/
   name: Quantum 2048
   author: uhyo
+  
+- url: https://chrome.google.com/webstore/detail/cosmos-2048/ojkbpohgdnlijekgdnadeaohlbbbijeg
+  name: Cosmos 2048 (Chrome Extension)
+  author: Agadeta Games
