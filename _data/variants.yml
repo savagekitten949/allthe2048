@@ -2,6 +2,10 @@
   name: Original
   author: Gabriele Cirulli
 
+- url: http://tinyurl.com/paw2048
+  name: PAW 2048
+  authtor: Paw
+
 - url: http://ov3y.github.io/2048-AI/
   name: 2048 AI
   author: Matt Overlan
