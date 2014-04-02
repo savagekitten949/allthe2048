@@ -170,13 +170,13 @@
   name: Divide It!
   author: Drew Weymouth
 
+- url: http://www.ajnas.in/one/
+  name: One 
+  author: Ajnas Kt
+
 - url: http://la-oui.ch/syn2048/
   name: syn2048
   author: J2R2
-
-- url: http://www.ajnas.in/one/
-  name: Return to 1 (Reverse of 2048)
-  author: Ajnas Kt
 
 - url: http://diamondtrader.citroon.com/
   name: Play with Diamonds (for people who don't like numbers)
