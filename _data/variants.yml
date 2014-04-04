@@ -209,3 +209,7 @@
 - url: http://www.twitch.tv/twitchplayswebgames
   name: Twitch Plays 2048
   author: Twitch
+  
+- url: http://blanboom.org/2048/
+  name: Mg
+  authtor: Blanboom
