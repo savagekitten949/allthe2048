@@ -209,3 +209,7 @@
 - url: http://www.twitch.tv/twitchplayswebgames
   name: Twitch Plays 2048
   author: Twitch
+
+- url: http://1338h4x.github.io/2-2-4/
+  name: Yet Another 2048 Variant
+  author: 1338h4x
