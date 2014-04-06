@@ -185,7 +185,7 @@
 - url: http://tinyurl.com/paw2048
   name: PAW 2048
   author: cestsupersympa
-  
+
 - url: http://2048game.org/simpson/
   name: Simpsons 2048
   author: Amit Surti
@@ -193,11 +193,11 @@
 - url: http://www.b4rm4n.com/shots/
   name: SH0TS!
   author: B4RM4N
-  
+
 - url: http://hczhcz.github.io/Racing-2048/
   name: Racing 2048
   author: hcz
-  
+
 - url: http://hczhcz.github.io/2048/
   name: Upside Down 2048
   author: hcz
@@ -213,3 +213,7 @@
 - url: http://mcsdwvl.github.io/to11/
   name: to11 - puzzle 2048
   author: Matthew Vassilakos
+
+- url: http://1338h4x.github.io/2-2-4/
+  name: Yet Another 2048 Variant
+  author: 1338h4x
