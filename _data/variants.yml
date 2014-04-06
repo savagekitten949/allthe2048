@@ -221,11 +221,15 @@
 - url: http://suki.ipb.ac.rs/11/
   name: 11 Game
   author: Milovan Suvakov
-  
+
 - url: http://2048alphabet.com
   name: 2048 Alphabet
   author: Misho M. Petkovic
-  
+
 - url: http://vladimirmandaric.github.io/DIAGONAL2048/2048-master/index.html
   name: Diagonal 2048
   author: Vladimir Mandaric
+
+- url: http://blanboom.org/2048/
+  name: Mg
+  author: Blanboom
