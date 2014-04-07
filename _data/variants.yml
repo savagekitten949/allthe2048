@@ -233,3 +233,11 @@
 - url: http://blanboom.org/2048/
   name: Mg
   author: Blanboom
+  
+- url: http://2048alphabet.com/hiragana/
+  name: 2048 Hiragana
+  author: Misho M. Petkovic
+  
+- url: http://2048alphabet.com/katakana/
+  name: 2048 Katakana
+  author: Misho M. Petkovic
