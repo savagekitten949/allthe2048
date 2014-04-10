@@ -245,3 +245,7 @@
 - url: http://games.usvsth3m.com/2048/complex-function-2048-edition/
   name: Complex function edition 2048
   author: Mikael Mayer
+
+- url: http://egansoft.github.io/2048hack/
+  name: 2048 Hack Version
+  author: Egansoft
