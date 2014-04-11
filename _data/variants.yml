@@ -171,7 +171,7 @@
   author: Drew Weymouth
 
 - url: http://www.ajnas.in/one/
-  name: One 
+  name: One
   author: Ajnas Kt
 
 - url: http://la-oui.ch/syn2048/
@@ -253,3 +253,7 @@
 - url: http://egansoft.github.io/2048hack/
   name: 2048 Hack Version
   author: Egansoft
+
+- url: http://simos.github.io/2048/
+  name: 2048 Greek Numerals
+  author: Simos Xenitellis
