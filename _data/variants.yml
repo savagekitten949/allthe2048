@@ -245,6 +245,7 @@
 - url: http://games.usvsth3m.com/2048/complex-function-2048-edition/
   name: Complex function edition 2048
   author: Mikael Mayer
+
 - url: http://games.usvsth3m.com/2048/roman-numerals-edition-33/
-  Name: 2048: Roman numerals edition
-  Author Daniel Barber
+  name: "2048:Roman numerals edition"
+  author: Daniel Barber
