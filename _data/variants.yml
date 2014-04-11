@@ -171,7 +171,7 @@
   author: Drew Weymouth
 
 - url: http://www.ajnas.in/one/
-  name: One 
+  name: One
   author: Ajnas Kt
 
 - url: http://la-oui.ch/syn2048/
@@ -245,3 +245,8 @@
 - url: http://games.usvsth3m.com/2048/complex-function-2048-edition/
   name: Complex function edition 2048
   author: Mikael Mayer
+
+- url: http://simos.github.io/2048/
+  name: 2048 Greek Numerals
+  author: Simos Xenitellis
+
