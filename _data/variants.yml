@@ -269,3 +269,23 @@
 - url: http://bennettfeely.com/air2048
   name: Air2048
   author: Bennett Feely
+
+- url: http://0x0800.github.io/2048-STARWARS/
+  name: Star Wars
+  author: 0x0800
+
+- url: http://0x0800.github.io/2048-ARMY/
+  name: Army
+  author: 0x0800
+
+- url: http://0x0800.github.io/2048-CUPCAKES/
+  name: Cupcakes
+  author: 0x0800
+
+- url: http://0x0800.github.io/2048-TIFFANY/
+  name: Tiffany
+  author: 0x0800
+
+- url: http://0x0800.github.io/2048-SUPERHEELS/
+  name: Super Heels
+  author: 0x0800
