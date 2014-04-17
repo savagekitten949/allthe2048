@@ -79,6 +79,10 @@ hr {
     margin-top: 50px;
 }
 
+.paypal-donate {
+  display: inline-block;
+}
+
 @media screen and (max-width: 640px) {
   html, body {
     font-size: 15px; 

@@ -15,4 +15,8 @@ Feel free to:
 ```
 - Open a pull request
 
-Thanks! :)
+## Donations
+
+This is a side project I do in my spare time and I have zero hosting costs because it is hosted on Github Pages. The donate button is there if you still feel like buying me a beer or a coffee.
+
+Thank you very much! :)
