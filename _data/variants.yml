@@ -345,3 +345,7 @@
 - url: http://cyberzhg.github.io/2048/
 - name: 2147483648
 - author: Zhao Hanguang
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/9007199254740992/
+- name: 9007199254740992
+- author: ?
