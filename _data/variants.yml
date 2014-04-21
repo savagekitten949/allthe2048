@@ -14,6 +14,10 @@
   name: 2048-4D
   author: Huon Wilson
 
+- url: http://cesarkawakami.github.io/2048-5D/
+  name: 2048-3D
+  author: Cesar Kawakami
+
 - url: http://prat0318.github.io/2048-tetris/
   name: 2048 Tetris
   author: Prateek Agarwal
