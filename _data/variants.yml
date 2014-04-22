@@ -1,3 +1,4 @@
+
 - url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
@@ -341,7 +342,11 @@
 - url: http://games.usvsth3m.com/2048/led-zeppelin-edition-10/
   name: Led Zeppelin 2048
   author: cheesecake_assassin
-  
+
 - url: http://games.usvsth3m.com/2048/rihanna-edition-18/
   name: Rihanna Edition
   author: Emma S
+
+- url: http://apps.microsoft.com/windows/app/2048/7e8bc864-2ee7-437e-8f75-106f1eb4d802
+  name: 2048 for Windows 8
+  author: Peter Vrenken
