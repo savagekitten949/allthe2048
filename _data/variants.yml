@@ -1,4 +1,3 @@
-
 - url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
@@ -350,3 +349,7 @@
 - url: http://apps.microsoft.com/windows/app/2048/7e8bc864-2ee7-437e-8f75-106f1eb4d802
   name: 2048 for Windows 8
   author: Peter Vrenken
+
+- url: http://games.usvsth3m.com/2048/2048-2048-edition/
+  name: 2048 2048 2048
+  author: me
