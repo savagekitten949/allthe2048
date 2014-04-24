@@ -339,21 +339,21 @@
   author: James Donnelly
 
 - url: http://louhuang.com/2048-numberwang/
-- name: 2048 Numberwang
-- author: Lou Huang
+  name: 2048 Numberwang
+  author: Lou Huang
 
 - url: http://cyberzhg.github.io/2048/
-- name: 2147483648
-- author: Zhao Hanguang
+  name: 2147483648
+  author: Zhao Hanguang
 
 - url: http://logarithmic-flappy-2048.ajf.me/
-- name: Logarithmic Flappy 2048
-- author: ajf
+  name: Logarithmic Flappy 2048
+  author: ajf
 
 - url: http://phorque.github.io/4/
-- name: 4
-- author: Victor Goya
+  name: 4
+  author: Victor Goya
 
 - url: http://aj-r.github.io/Evil-2048/
-- name: Evil 2048
-- author: AJ Richardson
+  name: Evil 2048
+  author: AJ Richardson
