@@ -353,3 +353,7 @@
 - url: http://2048alphabet.com/azbuka/
   name: 2048 Azbuka
   author: Misho M. Petkovic
+  
+- url: http://turbomaze.github.io/2048-Study/
+  name: 2048 Study Tool
+  author: Anthony Liu
