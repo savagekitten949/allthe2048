@@ -14,6 +14,10 @@
   name: 2048-4D
   author: Huon Wilson
 
+- url: http://cesarkawakami.github.io/2048-5D/
+  name: 2048-5D
+  author: Cesar Kawakami
+
 - url: http://prat0318.github.io/2048-tetris/
   name: 2048 Tetris
   author: Prateek Agarwal
@@ -349,7 +353,31 @@
 - url: http://apps.microsoft.com/windows/app/2048/7e8bc864-2ee7-437e-8f75-106f1eb4d802
   name: 2048 for Windows 8
   author: Peter Vrenken
-  
+
 - url: http://2048alphabet.com/azbuka/
   name: 2048 Azbuka
   author: Misho M. Petkovic
+
+- url: http://jamesdonnelly.github.io/Isotopic256/
+  name: isotpic 256
+  author: James Donnelly
+
+- url: http://louhuang.com/2048-numberwang/
+  name: 2048 Numberwang
+  author: Lou Huang
+
+- url: http://cyberzhg.github.io/2048/
+  name: 2147483648
+  author: Zhao Hanguang
+
+- url: http://logarithmic-flappy-2048.ajf.me/
+  name: Logarithmic Flappy 2048
+  author: ajf
+
+- url: http://phorque.github.io/4/
+  name: 4
+  author: Victor Goya
+
+- url: http://aj-r.github.io/Evil-2048/
+  name: Evil 2048
+  author: AJ Richardson
