@@ -385,3 +385,7 @@
 - url: http://games.usvsth3m.com/2048/2048-2048-edition/
   name: 2048 2048 2048
   author: Stingclaw
+
+- url: http://matthewbauer.github.io/2048i/
+  name: 2048i
+  author: Matthew Bauer
