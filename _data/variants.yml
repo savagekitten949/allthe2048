@@ -389,3 +389,7 @@
 - url: http://matthewbauer.github.io/2048i/
   name: 2048i
   author: Matthew Bauer
+
+- url: http://turbomaze.github.io/2048-Study/
+  name: 2048 Study Tool
+  author: Anthony Liu
