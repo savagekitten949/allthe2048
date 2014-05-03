@@ -409,3 +409,7 @@
 - url: http://brandonevans.org/2048-sendgrid/
   name: 2048-SendGrid
   author: Brandon Evans
+
+- url: http://1024game.org
+  name: 1024 Game
+  author: M. Petkovic
