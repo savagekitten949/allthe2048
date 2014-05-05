@@ -397,7 +397,7 @@
 - url: http://wasting-ti.me/2048+2048/
   name: 2048 + 2048
   author: Nicolas Hurtubise
-  
+
 - url: http://games.usvsth3m.com/2048/-edition-12318/
   name: Japanese version
   author: Superfoo
@@ -413,3 +413,7 @@
 - url: http://1024game.org
   name: 1024 Game
   author: M. Petkovic
+
+- url: http://kshitij-banerjee.github.io/Cubiks-2048/
+  name: Cubik's 2048
+  author: Kshitij Banerjee
