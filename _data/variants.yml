@@ -437,3 +437,7 @@
 - url: http://games.usvsth3m.com/2048/mlp--edition-8/
   name: MLP 2048
   author: Dominiqe McCaskill
+
+- url: http://n-at.github.io/obstacle-2048
+  name: Obstacle 2048
+  author: Alexey Nurgaliev
