@@ -410,6 +410,7 @@
   name: 2048-SendGrid
   author: Brandon Evans
 
+<<<<<<< HEAD
 - url: http://1024game.org
   name: 1024 Game
   author: M. Petkovic
@@ -429,3 +430,12 @@
 - url: http://www.romaincousin.fr/2048/
   name: Animated 2048
   author: Romain Cousin
+=======
+- url: http://games.usvsth3m.com/2048/powerpuff-edition-2/
+  name: Powerpuff 2048
+  author: Dominiqe McCaskill
+
+- url: http://games.usvsth3m.com/2048/mlp--edition-8/
+  name: MLP 2048
+  author: Dominiqe McCaskill
+>>>>>>> 1a91c75987eb5f550860c0b5a5bb32fafafdb037
