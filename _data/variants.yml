@@ -465,3 +465,15 @@
 - url: http://games.usvsth3m.com/2048/hundley-edition/
   name: 2048 Hundley Edition
   author: WandoHD
+
+- url: http://www.kongregate.com/games/random_strangers/511-game
+  name: 511 Game - 2048 on a 3x3 grid, completely solved
+  author: Arek Paterek
+
+- url: http://random-strangers.com/2048analyze
+  name: 2048 Analyze - 2048 with AI autoplay
+  author: Arek Paterek
+  
+- url: http://random-strangers.com/smart2048
+  name: Smart 2048 - 2048 with AI autoplay (commercial)
+  author: Arek Paterek
