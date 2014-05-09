@@ -441,3 +441,23 @@
 - url: http://n-at.github.io/obstacle-2048
   name: Obstacle 2048
   author: Alexey Nurgaliev
+
+- url: http://games.usvsth3m.com/2048/dogs-edition-22/
+  name: Dogs 2048
+  author: Daniel Barber
+
+- url: http://games.usvsth3m.com/2048/pacmandigdug-edition/
+  name: Pacman 2048
+  author: Daniel Barber
+
+- url: http://jamesdonnelly.github.io/Isotopic256/
+  name: Isotopic 2048
+  author: James Donnelly
+
+- url: http://2048.wiity.net/
+  name: 2048 in French
+  author: wiity.net
+
+- url: http://games.usvsth3m.com/2048/minecraft-edition-837/
+  name: Minecraft 2048
+  author: coddyer18
