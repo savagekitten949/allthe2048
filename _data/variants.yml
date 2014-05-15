@@ -525,3 +525,7 @@
 - url: http://mblan.github.io/joc2048/
   name: JOC Wines Edition
   author: m blan
+
+- url: pfmscode.github.io/godly-2048/
+  name: Olympian 2048
+  author: pfmscode
